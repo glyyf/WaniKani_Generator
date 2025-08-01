@@ -1,0 +1,1 @@
+# WaniKani_Generator
